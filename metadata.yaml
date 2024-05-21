@@ -1,0 +1,33 @@
+_repo: Kannokossa-b-Savolaiskuvia_73573
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Juuti, Toimi
+    aliases:
+    - T. J.
+    - J., T.
+    - J-i, T.
+    - T. J-i
+    birthdate: 1881
+    deathdate: 1943
+    gutenberg_agent_id: '43129'
+    url: http://www.gutenberg.org/2009/agents/43129
+    wikipedia: https://fi.wikipedia.org/wiki/Toimi_Juuti
+description: ''
+gutenberg_issued: '2024-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73573'
+language: fi
+pgterms:marc905: 20240420223800juuti
+pgterms:marc906: '1908'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPori :$bO. Romeliuksen kirjakauppa, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kannokossa : $b Savolaiskuvia'
+url: http://www.gutenberg.org/ebooks/73573
