@@ -1,5 +1,8 @@
 _repo: Kannokossa-b-Savolaiskuvia_73573
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Juuti, Toimi
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43129
     wikipedia: https://fi.wikipedia.org/wiki/Toimi_Juuti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73573#Kannokossa-b-Savolaiskuvia
 gutenberg_issued: '2024-05-08'
 gutenberg_type: Text
 identifiers:
